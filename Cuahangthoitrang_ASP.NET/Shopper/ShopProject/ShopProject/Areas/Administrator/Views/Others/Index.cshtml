@@ -1,0 +1,62 @@
+﻿@model IEnumerable<ShopProject.Areas.Administrator.Models.Order>
+
+@{
+    ViewBag.Title = "Đơn hàng";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Danh mục</h2>
+<div class="text-warning">
+    @ViewBag.OrdError
+</div>
+<hr />
+<div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <a class="btn btn-primary btn-default" href="@Url.Action("Index", "Others")" role="button">Làm mới</a>
+            <div class="form-group input-group navbar-right">
+                @using (Ajax.BeginForm("Index", "Others", new AjaxOptions { InsertionMode = InsertionMode.Replace, HttpMethod = "Get" }))
+                {
+                    <input type="search" name="name" class="form-control" style="width:300px" placeholder="Nhập mã đơn hàng..." />
+                    <button class="btn btn-success" type="submit">
+                        <i class="fa fa-search"></i>
+                    </button>
+                }
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="table-responsive table-bordered">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Mã Đơn</th>
+                            <th>Số điện thoại</th>
+                            <th>Ghi chú</th>
+                            <th>Ngày đặt hàng</th>
+                            <th>Tình trạng đơn hàng</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{int i = 0;}
+                        @foreach (var item in Model)
+                        {
+                            i++;
+                            <tr>
+                                <td>@i</td>
+                                <td>@Html.DisplayFor(modelItem => item.orderID)</td>
+                                <td>@Html.DisplayFor(modelItem => item.cusPhone)</td>
+                                <td>@Html.DisplayFor(modelItem => item.orderMessage)</td>
+                                <td>@Html.DisplayFor(modelItem => item.orderDateTime)</td>
+                                <td>@Html.DisplayFor(modelItem => item.orderStatus)</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.table-responsive -->
+        </div>
+        <!-- /.panel-body -->
+    </div>
+    <!-- /.panel -->
+</div>

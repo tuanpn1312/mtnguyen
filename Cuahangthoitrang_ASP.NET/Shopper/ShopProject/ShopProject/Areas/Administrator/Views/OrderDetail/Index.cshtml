@@ -1,0 +1,61 @@
+﻿@model IEnumerable<ShopProject.Areas.Administrator.Models.OrderDetail>
+
+@{
+    ViewBag.Title = "Đơn hàng";
+    Layout = "~/Areas/Administrator/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Danh mục</h2>
+<div class="text-warning">
+    @ViewBag.OrdError
+</div>
+<hr />
+<div>
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <a class="btn btn-primary btn-default" href="@Url.Action("Index", "OrderDetail")" role="button">Làm mới</a>
+            <div class="form-group input-group navbar-right">
+                @using (Ajax.BeginForm("Index", "OrderDetail", new AjaxOptions { InsertionMode = InsertionMode.Replace, HttpMethod = "Get" }))
+                {
+                    <input type="search" name="name" class="form-control" style="width:300px" placeholder="Nhập mã đơn hàng..." />
+                    <button class="btn btn-success" type="submit">
+                        <i class="fa fa-search"></i>
+                    </button>
+                }
+            </div>
+        </div>
+        <div class="panel-body">
+            <div class="table-responsive table-bordered">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Mã Đơn</th>
+                            <th>Mã sản phẩm</th>
+                            <th>Số lượng</th>
+                            <th>Tổng số tiền</th>
+                      
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @{int i = 0;}
+                        @foreach (var item in Model)
+                        {
+                            i++;
+                            <tr>
+                                <td>@i</td>
+                                <td>@Html.DisplayFor(modelItem => item.orderID)</td>
+                                <td>@Html.DisplayFor(modelItem => item.proID)</td>
+                                <td>@Html.DisplayFor(modelItem => item.ordtsQuantity)</td>
+                                <td>@Html.DisplayFor(modelItem => item.ordtsThanhTien)</td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <!-- /.table-responsive -->
+        </div>
+        <!-- /.panel-body -->
+    </div>
+    <!-- /.panel -->
+</div>
