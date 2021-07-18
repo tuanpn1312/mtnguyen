@@ -1,0 +1,63 @@
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\obj\Debug\DoAn2.csprojAssemblyReference.cache
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.CoreCompileInputs.cache
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\obj\Debug\DoAn2.DangNhap.resources
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\obj\Debug\DoAn2.ManHinhChinh.resources
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\obj\Debug\DoAn2.Properties.Resources.resources
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.GenerateResource.cache
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\bin\Debug\DoAn2.exe.config
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\bin\Debug\DoAn2.exe
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\bin\Debug\DoAn2.pdb
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\obj\Debug\DoAn2.exe
+D:\đại học\lập trình hướng đối tượng\DoAn2\DoAn2\obj\Debug\DoAn2.pdb
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\bin\Debug\DoAn2.exe.config
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.exe
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.pdb
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\bin\Debug\DoAn2.exe
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\bin\Debug\DoAn2.pdb
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.csprojResolveAssemblyReference.cache
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.DangNhap.resources
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.ManHinhChinh.resources
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.Properties.Resources.resources
+C:\Users\tantu\OneDrive\Desktop\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.GenerateResource.Cache
+D:\downloads\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.exe.config
+D:\downloads\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.exe
+D:\downloads\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.pdb
+D:\downloads\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csprojAssemblyReference.cache
+D:\downloads\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.DangNhap.resources
+D:\downloads\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.ManHinhChinh.resources
+D:\downloads\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.Properties.Resources.resources
+D:\downloads\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.GenerateResource.cache
+D:\downloads\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.CoreCompileInputs.cache
+D:\downloads\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.exe
+D:\downloads\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.pdb
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.exe.config
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.exe
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.pdb
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.exe
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.pdb
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csprojResolveAssemblyReference.cache
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.DangNhap.resources
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.ManHinhChinh.resources
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.Properties.Resources.resources
+C:\Users\tantu\OneDrive\Desktop\asdadadadad\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.GenerateResource.Cache
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.exe.config
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.exe
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.pdb
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csprojAssemblyReference.cache
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.DangNhap.resources
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.ManHinhChinh.resources
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.Properties.Resources.resources
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.GenerateResource.cache
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.CoreCompileInputs.cache
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.exe
+D:\downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.pdb
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.exe.config
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.exe
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.pdb
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.exe
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\bin\Debug\DoAn2.pdb
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csprojResolveAssemblyReference.cache
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.DangNhap.resources
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.ManHinhChinh.resources
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.Properties.Resources.resources
+C:\Users\tantu\Downloads\DoAn2-20191222T133155Z-001\DoAn2\DoAn2\DoAn2\obj\Debug\DoAn2.csproj.GenerateResource.Cache

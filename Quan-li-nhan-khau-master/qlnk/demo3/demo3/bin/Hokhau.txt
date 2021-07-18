@@ -1,0 +1,45 @@
+﻿1
+Đinh Tấn Tú
+212425127
+Nam
+08/01/2000
+Kinh
+Việt Nam
+12/12/2019
+TT Di Lăng - Sơn Hà - Quảng Ngãi
+2
+Nguyễn Minh Tuấn
+212127935
+Nam
+13/12/2000
+Kinh 
+Việt Nam
+12/12/2000
+Quận 9
+3
+Phạm Tiến Thạo
+212416874
+Nam
+15/05/1999
+Mông
+Việt Nam
+12/12/2019
+Ninh Thuận
+4
+Diệp Thúy Vi
+212578172
+Nữ
+28/10/2000
+Kinh
+Việt Nam
+12/12/2019
+Đồng Tháp
+5
+ tuấn
+ 
+ 
+ 
+ 
+ 
+ 
+ 

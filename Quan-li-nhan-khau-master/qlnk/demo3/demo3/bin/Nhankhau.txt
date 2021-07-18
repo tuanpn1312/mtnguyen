@@ -1,0 +1,114 @@
+﻿1
+con
+Nguyễn Minh Tuấn
+13/12/2000
+Kinh
+Nam
+VN
+123456
+12/12/2009
+Q9
+đh
+sinh viên
+0
+0
+ Tp Hồ Chí Minh
+ Nam Định
+ Q9
+ Q9
+ 
+2
+con
+Nguyễn A
+1/1/1999
+Mông
+Nam
+VN
+123456789
+9/9/2012
+Long Phước
+Đh
+Cày thuê
+văn phòng
+0
+Nghệ An
+ Cà Mau
+Q9
+ Q9
+ 
+2
+em
+Đinh Lâu
+1/2/2001
+Êđê
+Nữ
+ Việt Nam
+1589463
+1/9/2008
+Q.Thủ Đức
+Đh
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3
+chủ hộ
+Trần B
+ 1/1/2019
+Kinh
+Nam
+Việt Nam
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4
+chủ hộ
+Têu Lêu
+ 13/5/2000
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Q9
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

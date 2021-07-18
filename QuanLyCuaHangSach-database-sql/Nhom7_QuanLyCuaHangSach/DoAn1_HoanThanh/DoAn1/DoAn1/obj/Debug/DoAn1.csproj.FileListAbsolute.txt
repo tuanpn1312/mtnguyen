@@ -1,0 +1,149 @@
+D:\Đồ án 1\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+D:\Đồ án 1\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+D:\Đồ án 1\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+D:\Đồ án 1\DoAn1\DoAn1\bin\Debug\FontAwesome.Sharp.dll
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.MainForm.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.DashBoard.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.Login.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.Register.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.Search.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.BookDetail.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.Cart.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.Report.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.ManageAccount.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.ManageResources.resources
+D:\Đồ án 1\DoAn1\DoAn1\obj\Debug\DoAn1.ManageMemberCard.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+C:\Users\pc\Downloads\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+C:\Users\pc\Downloads\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+C:\Users\pc\Downloads\DoAn1\DoAn1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.BookDetail.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.Cart.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.DashBoard.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.MainForm.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.Login.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.ManageAccount.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.ManageResources.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.ManageMemberCard.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.Search.resources
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+C:\Users\pc\Downloads\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+E:\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+E:\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+E:\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+E:\DoAn1\DoAn1\bin\Debug\FontAwesome.Sharp.dll
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.BookDetail.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.Cart.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.DashBoard.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.MainForm.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.Login.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.ManageAccount.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.ManageResources.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.ManageMemberCard.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.Register.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.Report.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.Search.resources
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+E:\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\FontAwesome.Sharp.dll
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.BookDetail.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Cart.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.DashBoard.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.MainForm.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Login.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.ManageAccount.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.ManageResources.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.ManageMemberCard.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Search.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Bill.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.BookDetail.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Cart.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.DashBoard.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.MainForm.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Login.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.ManageResources.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.ManageMemberCard.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Report.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Search.resources
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\pc\Desktop\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Bill.resources
+E:\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Report.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\FontAwesome.Sharp.dll
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Bill.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.BookDetail.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Cart.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.DashBoard.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.MainForm.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Login.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.ManageResources.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.ManageMemberCard.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Report.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Search.resources
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+D:\HocTap\HOCKI5\HQTCSDL\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.exe.config
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.exe
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\DoAn1.pdb
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Bill.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.BookDetail.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Cart.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.DashBoard.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.MainForm.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Login.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.ManageResources.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.ManageMemberCard.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Properties.Resources.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Report.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.Search.resources
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.csproj.CopyComplete
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.exe
+C:\Users\Admin\Desktop\DoAn1_HoanThanh (1)\DoAn1_HoanThanh\DoAn1\DoAn1\obj\Debug\DoAn1.pdb
